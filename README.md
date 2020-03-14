@@ -1,4 +1,4 @@
-# Import-SQL-into-a-Database-using-PHP-7
+# Import SQL into a Database using PHP 7.*.*
 A very simple yet useful MySQL Big Dump File Importer with Progress Bar.
 
 # Features
