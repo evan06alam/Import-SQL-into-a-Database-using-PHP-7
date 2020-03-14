@@ -9,7 +9,7 @@ Easy and User Friendly Interface
 PHP Version 7.* Supported.
 
 # Install
-Step 1: Download this library file form [Link](https://github.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7.git)<br/>
+Step 1: Download this library file from [Link](https://github.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7.git)<br/>
 Step 2: Extract from Zip Folder to your php server.<br/>
 Step 3: Run in browser.<br/>
 Step 4: Fill the form with Destination Database Connection and Dump (.sql) File.<br/>
