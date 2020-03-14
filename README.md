@@ -12,6 +12,8 @@ PHP Version 7.* Supported.
 Step 1: Download this library file form [Link](https://github.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7.git)<br/>
 Step 2: Extract from Zip Folder to your php server.<br/>
 Step 3: Run in browser.<br/>
+Step 4: Fill the form with Destination Database Connection and Dump (.sql) File.<br/>
+Step 5: That's IT. Then Just Wait and See the Progress.
 
 # Feedback
 All bugs, feature requests, pull requests, feedback, etc., are welcome. E-mail me at evanpab@gmail.com
