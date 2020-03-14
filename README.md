@@ -16,11 +16,11 @@ Step 4: Fill the form with Destination Database Connection and Dump (.sql) File.
 Step 5: That's IT. Then Just Wait and See the Progress.
 
 # Screenshots
-Screen One: Input Destination Database Settings & Dump (.sql) File to Import:
+<br>Screen One: Input Destination Database Settings & Dump (.sql) File to Import:
 ![First Screen](https://raw.githubusercontent.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7/master/first_screen.png)
-Screen Two: Pressing Submit Button, Progress screen will be like this one. Any Exception found in your dump file, This screen will show you with line number.
+<br>Screen Two: Pressing Submit Button, Progress screen will be like this one. Any Exception found in your dump file, This screen will show you with line number.
 ![Second Screen](https://raw.githubusercontent.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7/master/second_screen.png)
-Screen Three: This is final Screen when Import completed Successful. And you can back to new import with back button
+<br>Screen Three: This is final Screen when Import completed Successful. And you can back to new import with back button
 ![Final Screen](https://raw.githubusercontent.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7/master/final_screen.png)
 
 # Hope you will enjoy :)
