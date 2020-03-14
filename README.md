@@ -15,6 +15,11 @@ Step 3: Run in browser.<br/>
 Step 4: Fill the form with Destination Database Connection and Dump (.sql) File.<br/>
 Step 5: That's IT. Then Just Wait and See the Progress.
 
+# Screenshots
+![First Screen](https://raw.githubusercontent.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7/master/first_screen.png)
+![Second Screen](https://raw.githubusercontent.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7/master/second_screen.png)
+![Final Screen](https://raw.githubusercontent.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7/master/final_screen.png)
+
 # Feedback
 All bugs, feature requests, pull requests, feedback, etc., are welcome. E-mail me at evanpab@gmail.com
 
