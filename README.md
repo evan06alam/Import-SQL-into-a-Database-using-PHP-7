@@ -18,3 +18,6 @@ All bugs, feature requests, pull requests, feedback, etc., are welcome. E-mail m
 
 # Credits
 Copyright (c) 2020- Programmed by Md Mahbubul Alam. [Facebook](https://www.facebook.com/evanpab)
+
+# License
+Released under the MIT License. See [LICENSE file](https://github.com/evan06alam/Import-SQL-into-a-Database-using-PHP-7/blob/master/LICENSE).
